@@ -1,0 +1,19 @@
+{
+  "name": "test-devops",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/zenXD45/test-devops#readme",
+  "bugs": {
+    "url": "https://github.com/zenXD45/test-devops/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenXD45/test-devops.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  }
+}
